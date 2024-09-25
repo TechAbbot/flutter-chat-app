@@ -1,16 +1,38 @@
-# chat_app
 
-A new Flutter project.
+# Chat Mobile App
 
-## Getting Started
+  
 
-This project is a starting point for a Flutter application.
+Welcome to the Chat Mobile App! This application allows users to chat with contacts and allow them to communicate and share pictures and more files realtime.
 
-A few resources to get you started if this is your first Flutter project:
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+
+-  **Realtime messaging**: Get real-time updates on each chat messages.
+
+-  **Push Notifications**: On time message push notification for chat
+
+-  **Real time activity status**: Know your chat person is currently online or offline
+
+-  **In App Calling**: Secure and stable in app video and audio calling experience
+
+-  **Multi file document**: Ability to share multi files like docs, pdfs, images, location, contacts
+
+  
+
+## Technologies Used
+
+  
+
+- Flutter(Dart), NodeJs, Socket.IO, Firebase, SQL
+
+  
+
+## Screen Shots
+
+  
+| ![chat detail](https://raw.githubusercontent.com/priyesh-techabbot/chat_app/refs/heads/main/images/attachment/chat_listing.png) | ![chat listing](https://raw.githubusercontent.com/priyesh-techabbot/chat_app/refs/heads/main/images/attachment/chat_detail.png) |![chat detial2](https://raw.githubusercontent.com/priyesh-techabbot/chat_app/refs/heads/main/images/attachment/chat_detail_keyboard.png)|
+|--|--|--|
